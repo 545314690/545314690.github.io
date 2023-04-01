@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sql.js">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/praise/assets/sql.js/sqljs-wasm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/praise/assets/sql.js/sqljs-all.zip!/" />
+      <root url="jar://$PROJECT_DIR$/praise/assets/sql.js/sqljs-worker-wasm.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
